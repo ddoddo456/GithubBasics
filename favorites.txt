@@ -1,3 +1,9 @@
+foods
 hamburger
 pizza
 chicken
+
+movies
+shoshank escape
+joker
+frozen
